@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ShoppingWebsite/static/css/main.d66c39bf.chunk.css",
-    "main.js": "/ShoppingWebsite/static/js/main.0fa595bc.chunk.js",
-    "main.js.map": "/ShoppingWebsite/static/js/main.0fa595bc.chunk.js.map",
-    "runtime-main.js": "/ShoppingWebsite/static/js/runtime-main.b1ffb829.js",
-    "runtime-main.js.map": "/ShoppingWebsite/static/js/runtime-main.b1ffb829.js.map",
-    "static/js/2.4c1e4794.chunk.js": "/ShoppingWebsite/static/js/2.4c1e4794.chunk.js",
-    "static/js/2.4c1e4794.chunk.js.map": "/ShoppingWebsite/static/js/2.4c1e4794.chunk.js.map",
-    "index.html": "/ShoppingWebsite/index.html",
-    "precache-manifest.919763a61063f8f18b087358e98a0a6c.js": "/ShoppingWebsite/precache-manifest.919763a61063f8f18b087358e98a0a6c.js",
-    "service-worker.js": "/ShoppingWebsite/service-worker.js",
-    "static/css/main.d66c39bf.chunk.css.map": "/ShoppingWebsite/static/css/main.d66c39bf.chunk.css.map",
-    "static/js/2.4c1e4794.chunk.js.LICENSE.txt": "/ShoppingWebsite/static/js/2.4c1e4794.chunk.js.LICENSE.txt"
+    "main.css": "/ShoppingApp/static/css/main.0794ed40.chunk.css",
+    "main.js": "/ShoppingApp/static/js/main.3f5156fe.chunk.js",
+    "main.js.map": "/ShoppingApp/static/js/main.3f5156fe.chunk.js.map",
+    "runtime-main.js": "/ShoppingApp/static/js/runtime-main.0de63f4d.js",
+    "runtime-main.js.map": "/ShoppingApp/static/js/runtime-main.0de63f4d.js.map",
+    "static/js/2.4c1e4794.chunk.js": "/ShoppingApp/static/js/2.4c1e4794.chunk.js",
+    "static/js/2.4c1e4794.chunk.js.map": "/ShoppingApp/static/js/2.4c1e4794.chunk.js.map",
+    "index.html": "/ShoppingApp/index.html",
+    "precache-manifest.171c7b9557b323e41451e4d0c00d074e.js": "/ShoppingApp/precache-manifest.171c7b9557b323e41451e4d0c00d074e.js",
+    "service-worker.js": "/ShoppingApp/service-worker.js",
+    "static/css/main.0794ed40.chunk.css.map": "/ShoppingApp/static/css/main.0794ed40.chunk.css.map",
+    "static/js/2.4c1e4794.chunk.js.LICENSE.txt": "/ShoppingApp/static/js/2.4c1e4794.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1ffb829.js",
+    "static/js/runtime-main.0de63f4d.js",
     "static/js/2.4c1e4794.chunk.js",
-    "static/css/main.d66c39bf.chunk.css",
-    "static/js/main.0fa595bc.chunk.js"
+    "static/css/main.0794ed40.chunk.css",
+    "static/js/main.3f5156fe.chunk.js"
   ]
 }
